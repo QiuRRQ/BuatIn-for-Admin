@@ -6,9 +6,9 @@ ini adalah aplikasi BUatIn untuk versi admin, atau si penyedia jasa pembuatan we
 
 berikut adalah screen shot untuk aplikasi ini : 
 
-![Image of BuatIn(https://github.com/QiuRRQ/BuatIn-for-Admin/blob/master/image/admin/admin1.jpg)
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-Admin/blob/master/image/admin/admin1.jpg)
 
-![Image of BuatIn(https://github.com/QiuRRQ/BuatIn-for-Admin/blob/master/image/admin/admin2.jpg)
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-Admin/blob/master/image/admin/admin2.jpg)
 
 ## Getting Started
 
